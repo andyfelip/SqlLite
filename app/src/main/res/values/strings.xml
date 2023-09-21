@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplicacion de Rutas</string>
+    <string name="logoDes">Logo Principal</string>
+    <string-array name="opciones">
+        <item>Bebidas</item>
+        <item>Alimentos</item>
+        <item>Tiendas</item>
+    </string-array>
+</resources>
