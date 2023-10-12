@@ -12,7 +12,7 @@
         android:layout_height="0dp"
         android:layout_marginStart="16dp"
         android:layout_marginTop="19dp"
-        android:contentDescription="@string/logoDes"
+        android:contentDescription="@string/app_name"
         android:layout_marginBottom="28dp"
         app:layout_constraintBottom_toTopOf="@+id/name"
         app:layout_constraintStart_toStartOf="parent"
